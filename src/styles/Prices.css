@@ -1,0 +1,82 @@
+.open {
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 12px !important;
+    line-height: 23px !important;
+    color: #6A6161;
+}
+
+.packetsHead {
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 22px !important;
+    line-height: 25px !important;
+    color: #6A6161;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.modalText {
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    letter-spacing: 0.05em !important;
+    color: #6A6161;
+    padding: 38px;
+    height: 150px !important;
+    overflow-y: auto;
+}
+
+@media (max-width: 400px) {
+    .modalText {
+        font-size: 10px !important;
+        text-align: left !important;
+        padding: 12px !important;
+    }
+}
+
+.modalPrice {
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    letter-spacing: 0.05em !important;
+    color: #6A6161;
+    padding: 11px;
+}
+
+.modalPriceHead {
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 21px !important;
+    line-height: 26px !important;
+    text-align: center !important;
+    letter-spacing: 0.05em !important;
+    text-transform: capitalize !important;
+    color: #CDBBBB;
+    padding-top: 20px;
+    padding-bottom: 7px;
+}
+
+.css-sox5kk-MuiBackdrop-root {
+    background-color: black !important;
+}
+
+.css-9mgopn-MuiDivider-root {
+    background-color: #6C6666;
+    height: 3px;
+}
+
+.priceCardBuild {
+    background-color: #DED6D6;
+    padding: 50px;
+}
+
+@media (max-width: 450px) {
+    .priceCardBuild {
+        padding: 20px;
+    }
+}
