@@ -73,13 +73,13 @@ const aqua = () => {
                         <Grid xs="12" lg="12">
                             <center>
                                 <br /><br /><br /><br /><br /><br />
-                                <Typography className='aquaText'>Hafta İçi (09:00-18:00):</Typography>
+                                <Typography className='aquaText'>Hafta İçi (09:00-17:30):</Typography>
                                 <Typography className='aquaText'>Yetişkin: 100₺</Typography>
-                                <Typography className='aquaText'>0-6 yaş 1 çocuk ücretsiz 6-12 yaş: 80₺</Typography>
+                                <Typography className='aquaText'>0-5 yaş 1 çocuk ücretsiz 6-12 yaş: 80₺</Typography>
                                 <br /><br /><br />
-                                <Typography className='aquaText'>Hafta Sonu  ve Resmi Tatillerde(09:00-18:00):</Typography>
+                                <Typography className='aquaText'>Hafta Sonu  ve Resmi Tatillerde(09:00-17:30):</Typography>
                                 <Typography className='aquaText'>Yetişkin: 120₺</Typography>
-                                <Typography className='aquaText'>0-6 yaş 1 çocuk ücretsiz 6-12 yaş: 80₺</Typography>
+                                <Typography className='aquaText'>0-5 yaş 1 çocuk ücretsiz 6-12 yaş: 80₺</Typography>
                                 <br /><br /><br /><br /><br />
                             </center>
                         </Grid>
