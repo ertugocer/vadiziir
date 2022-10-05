@@ -38,7 +38,7 @@ export default function TransitionsModal(props) {
                     <img
                         width={'300px'}
                         height='446px'
-                        alt='...'
+                        alt='ankaradüğün'
                         src={require('../../images/paketResim.png')}
                         style={{
                             borderRadius: '8px',

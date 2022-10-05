@@ -27,6 +27,8 @@ const Prices = () => {
                         cocktailprice200="200 kişiye kadar toplam ücret: 15.000₺"
                         cocktailprice500="400 kişiye kadar toplam ücret: 24.000₺"
                         cocktailprice1000="600 kişiye kadar toplam ücret: 31.000₺"
+                        alt='havuz başı düğün'
+                        name='havuz başı düğün'
                     />
                 </Grid>
                 <Grid item xs="12" lg="4">

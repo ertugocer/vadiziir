@@ -12,7 +12,7 @@ const Footer = () => {
       <Grid container direction={'row'} className='footerBackground'>
         <Grid xs="8" lg="10">
           <Typography className='footerCopyright'>
-            Copyright © 2022 - VADİZİİR.COM Sitede Kullanılan Tüm Görseller vadizir.com'a aittir.İzinsiz Kullanılamaz. Raptors SOFTWARE
+            Copyright © 2022 - VADİZİİR.COM Sitede Kullanılan Tüm Görseller vadiziir.com'a aittir.İzinsiz Kullanılamaz. Raptors SOFTWARE
           </Typography>
         </Grid>
         <Grid xs="4" lg="2" className='footerIcon'>
