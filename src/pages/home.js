@@ -13,6 +13,7 @@ const home = () => {
         <Grid container direction={'column'} className='homePageBuild'>
             <Life
                 image={require('../images/havuzsite.png')}
+                alt='ankarahavuz'
             />
             <Grid item alignItems='center'>
                 <Grid container direction={'row'} spacin='3' justifyContent={'center'} alignItems={'center'}>
@@ -26,6 +27,7 @@ const home = () => {
                                     yazı='/aqua'
                                     concept="Havuz&Aqua"
                                     text="Serinlemek ve günün sonuna kadar eğlenmek için daha neyi bekliyorsunuz?.."
+                                    alt='sincanhavuz'
                                 />
                             </Link>
                         </center>
@@ -41,6 +43,7 @@ const home = () => {
                                     text="Düğünlerin gözdesi olan kır düğünü 
                                ile havuzun ferahlığında birleşen bir
                                konsept..."
+                               alt='ziirhavuz'
                                 />
                             </Link>
                         </center>
@@ -52,6 +55,7 @@ const home = () => {
                             }}>
                                 <Card
                                     image={require('../images/Kırdüğünü.jpeg')}
+                                    alt='ankarahavuzbasıdugun'
                                     concept="Kır düğünü"
                                     text="Ağaç ve kuş seslerinde huzur bulurken misafirlenizin mesth olacağı bir düğün konsepti."
                                 />
@@ -69,6 +73,7 @@ const home = () => {
                                 text="Üstü açılabilir tente ile bu 
                               salonumuzda kapalı salonların 
                               aksine daha ferah olan bir konsept."
+                              alt='sincandüğünsalonu'
                             />
                             </Link>
                         </center>
@@ -84,6 +89,7 @@ const home = () => {
                                     text="Üstü açılabilir tente ile bu 
                               salonumuzda kapalı salonların 
                               aksine daha ferah olan bir konsept."
+                              alt='ankara düğün salonu'
                                 />
                             </Link>
                         </center>
@@ -99,6 +105,7 @@ const home = () => {
                                 text="Üstü açılabilir tente ile bu 
                               salonumuzda kapalı salonların 
                               aksine daha ferah olan bir konsept."
+                              alt='ankarakırbasıdugun salonu'
                             />
                             </Link>
                         </center>
