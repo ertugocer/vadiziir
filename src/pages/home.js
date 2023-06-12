@@ -5,6 +5,7 @@ import {
 } from '@mui/material'
 import '../styles/HomePage.css';
 import Life from '../Component/Common/Life';
+//import Villagehomes from '../Component/Common/Villagehomes';
 import Card from '../Component/Common/HomePageCard'
 import '../images/zir.png';
 
