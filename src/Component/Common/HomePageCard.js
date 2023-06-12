@@ -10,7 +10,7 @@ import '../../styles/HomePage.css'
 
 export default function MediaCard(props) {
     return (
-        <Card sx={{ maxWidth: 320, backgroundColor: '#CDBBBB', boxShadow: '0px 6px 6px 3px rgba(0, 0, 0, 0.25)', borderRadius: '8px' }}>
+        <Card sx={{ maxWidth: 320, backgroundColor: '#CDBBBB', boxShadow: '0px 6px 6px 3px rgba(0, 0, 0, 0.25)', borderRadius: '8px', border:'solid rgb(128, 86, 86);' }}>
             <CardMedia
                 component="img"
                 height="173"

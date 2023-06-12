@@ -67,7 +67,7 @@ export default function TransitionsModal(props) {
                 closeAfterTransition
                 BackdropComponent={Backdrop}
                 BackdropProps={{
-                    timeout: 1000,
+                    timeout: 1000
                 }}
                 sx={{
                     overflow: 'scroll',

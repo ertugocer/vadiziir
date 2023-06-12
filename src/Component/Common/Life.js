@@ -1,3 +1,4 @@
+/* eslint-disable react/style-prop-object */
 import React from 'react';
 import { 
     Container, 
@@ -5,7 +6,7 @@ import {
     Typography,
     CardMedia, 
     List,
-    ListItem
+    ListItem,
 } from '@mui/material'
 import '../../styles/HomePage.css';
 
@@ -17,13 +18,15 @@ const life = (props) => {
       <center>
       <List>
         <ListItem>Havuz Fiyatlarımız;</ListItem>
-        <ListItem>Hafta içi (09:00-17:30):</ListItem>
-        <ListItem>12 yaş ve üzeri 100₺</ListItem>
-        <ListItem>6-11 yaş 80₺</ListItem>
+        <ListItem>HAVUZ iRTİBAT VE DETAYLI BİLGİ İÇİN TELEFON NUMARASI :  <a className='phonenumber' href='05054326464'> 0505 432 6464</a></ListItem>
+        <ListItem>DÜĞÜN, BALO, NİŞAN FİYAT VE DETAYLI BİLGİ İÇİN :<a className='phonenumber' href=' 05324336031'>  0532 433 6031</a></ListItem>
+        <ListItem sx={'font-weight:bold'}>Hafta içi (09:00-17:30):</ListItem>
+        <ListItem>12 yaş ve üzeri 250₺</ListItem>
+        <ListItem>6-11 yaş 200₺</ListItem>
         <ListItem>0-5 yaş 1 çocuk ücretsiz</ListItem>
-        <ListItem>Hafta Sonu ve Resmi Tatillerde (09:00-17:30):</ListItem>
-        <ListItem>12 yaş ve üzeri: 120₺</ListItem>
-        <ListItem>6-11 yaş: 80₺</ListItem>
+        <ListItem sx={'font-weight:bold'}>Hafta Sonu ve Resmi Tatillerde (09:00-17:30):</ListItem>
+        <ListItem>12 yaş ve üzeri: 300₺</ListItem>
+        <ListItem>6-11 yaş: 250₺</ListItem>
         <ListItem>0-5 yaş 1 çocuk ücretsiz</ListItem>
         <Typography className='bone'>
           Havumuzda bone takılması sağlık bakanlığı tarafından zorunlu kılınmıştır bizim uygulamamız değildir.!!!Olmayanlar için satışımız mevcut.
