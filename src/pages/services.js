@@ -106,6 +106,32 @@ const services = () => {
                                 />
                             </Box>
                         </Grid>
+                        <Grid xs="12" sm="4" md="3" lg="2.4">
+                            <Box className='servicesImage'>
+                                <img
+                                    alt='...'
+                                    src={require('../images/taraca2.jpeg')}
+                                    style={{
+                                        width: '100%',
+                                        borderRadius: '8px',
+                                        height: '15rem'
+                                    }}
+                                />
+                            </Box>
+                        </Grid>
+                        <Grid xs="12" sm="4" md="3" lg="2.4">
+                            <Box className='servicesImage'>
+                                <img
+                                    alt='...'
+                                    src={require('../images/taraca4.jpeg')}
+                                    style={{
+                                        width: '100%',
+                                        borderRadius: '8px',
+                                        height: '15rem'
+                                    }}
+                                />
+                            </Box>
+                        </Grid>
                     </Grid>
                 </Grid>
             </Grid>

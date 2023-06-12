@@ -17,9 +17,9 @@ const life = (props) => {
       <Grid lg="7" padding={'13px'}>
       <center>
       <List>
+        <ListItem sx={'font-weight:bold'}>DÜĞÜN, BALO, NİŞAN İRTİBAT VE DETAYLI BİLGİ İÇİN :<a className='phonenumber' href=' 05324336031'>  0532 433 6031</a></ListItem>
+        <ListItem sx={'font-weight:bold'}>HAVUZ iRTİBAT VE DETAYLI BİLGİ İÇİN TELEFON NUMARASI :  <a className='phonenumber' href='05054326464'> 0505 432 6464</a></ListItem>
         <ListItem>Havuz Fiyatlarımız;</ListItem>
-        <ListItem>HAVUZ iRTİBAT VE DETAYLI BİLGİ İÇİN TELEFON NUMARASI :  <a className='phonenumber' href='05054326464'> 0505 432 6464</a></ListItem>
-        <ListItem>DÜĞÜN, BALO, NİŞAN FİYAT VE DETAYLI BİLGİ İÇİN :<a className='phonenumber' href=' 05324336031'>  0532 433 6031</a></ListItem>
         <ListItem sx={'font-weight:bold'}>Hafta içi (09:00-17:30):</ListItem>
         <ListItem>12 yaş ve üzeri 250₺</ListItem>
         <ListItem>6-11 yaş 200₺</ListItem>
@@ -36,9 +36,9 @@ const life = (props) => {
           <Typography className='whoText'>
           Biz Kimiz:
           <br /><br />
-            Tesisimiz Sincan Yenikent Temelli  yolu girişinde yerleşim yerine 200 metre mesafede olup tarihi zogor köprüsü yanındadır. 503/504 otobüsleri ve dolmuşlar ile ulaşım sağlanmaktadır. Tesisimiz 30.000 metrekaredir. İçerisinde yüzme havuzu,kaydırak
+            Tesisimiz Sincan Yenikent Zir Vadisi yolu girişinde, kent gross'a 150 metre, yerleşim yerine 200 metre mesafede olup tarihi zogor köprüsü yanındadır. 503/504 otobüsleri ve dolmuşlar ile ulaşım sağlanmaktadır. Tesisimiz 30.000 metrekaredir. İçerisinde yüzme havuzu,kaydırak
             içerisinden geçen ovada şelaler ve binlerce ağaç ve gülle donatılmış, doğallığa önem verilmiş bir tesistir. Tesisimizde kır düğünü, havuzbaşı düğünü,
-            çadırlı mekan düğünü, okul balosu, kır nikahı, toplu yemek ve benzeri organizasyonlar yapılmaktadır. Tesisimizde kafemiz vardır. Havuz müşterisine sürekli yiyeek ve içecek hizmeti sunmaktadır. Havuz müşterisi haricinde kahvaltı ve yemek için gelecek aile müşterisi randevu ile gelebilir.
+            çadırlı mekan düğünü, okul balosu, kır nikahı, toplu yemek ve benzeri organizasyonlar yapılmaktadır. Tesisimizde kafemiz vardır. Havuz müşterisine sürekli yiyecek ve içecek hizmeti sunmaktadır. Havuz müşterisi haricinde kahvaltı ve yemek için gelecek aile müşterisi randevu ile gelebilir.
           </Typography>
       </Grid>
       <Grid lg="4.8">
